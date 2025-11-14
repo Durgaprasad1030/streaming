@@ -76,7 +76,7 @@ streaming/
 │  │  │  ├─ Header.tsx
 │  │  │  ├─ MovieCard.tsx
 │  │  │  ├─ MovieRow.tsx
-│  │  │  └─ HeroBanner.tsx (optional / TMDB-based)
+│  │  │  
 │  │  ├─ movie/
 │  │  │  └─ [id]/
 │  │  │     └─ page.tsx     # Movie detail page
